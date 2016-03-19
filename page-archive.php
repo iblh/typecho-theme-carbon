@@ -12,7 +12,7 @@
 
         <div class="meta">
             <div class="post-content pl18" itemprop="articleBody">
-                <?php $this->widget('Widget_Contents_Post_Recent')->to($recent); ?>
+                <?php $this->widget('Widget_Contents_Post_Recent','pageSize=10000')->to($recent); ?>
                 <?php while($recent->next()):?>
                     <h2 class="article-title"><a href="<?php $recent->permalink() ?>"><?php $recent->title() ?></a></h2>
 
