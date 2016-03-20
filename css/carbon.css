@@ -21,7 +21,10 @@ a:hover {
     color: #6495ed;
 }
 blockquote {
-    display: flex;
+    padding: 0 15px;
+    color: #777;
+    border-left: 4px solid #ddd;
+    margin-left: 0px;
 }
 blockquote p {
     margin-left: auto;
@@ -292,11 +295,19 @@ textarea {
 .comment-meta {
     margin-top: -5px;
     margin-bottom: 5px;
+    position: relative;
+    bottom: 15px;
+    left: 35px;
+    font-size: 15px;
+}
+.comment-meta a{
+    color: #999;
+    font-size: .92857em;
 }
 .comment-content {
     line-height: 1.5;
     word-wrap: break-word;
-    padding: 10px 40px 0px 0;
+    padding: 0px 0px 0px 0px;
     font-size: 15px;
 }
 .comment-list li {
@@ -310,4 +321,16 @@ textarea {
 }
 .comment-children {
     margin-left: 22px;
+}
+.comment-author {
+    display: block;
+    margin-bottom: 1px;
+    color: #444;
+}
+.comment-author cite {
+    font-style: normal;
+    font-size: 15px;
+    line-height: 1.2;
+    position: relative;
+    bottom: 15px;
 }

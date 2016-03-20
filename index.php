@@ -19,6 +19,12 @@ $this->need('header.php');?>
 						<div class="article-date">
 							<a href="javascript:void(0);" class="extra-switch"><?php $this->date('F j, Y'); ?></a>
 						</div>
+						<div class="excerpt">
+							<p>
+								<!-- $this->content('Continue Reading...');  -->
+								<?php $this->excerpt(70, '...'); ?>
+							</p>
+						</div>
 					</div>
 					<div class="extra">
 						Tags: <?php $this->tags(' ', true, NULL); ?>
