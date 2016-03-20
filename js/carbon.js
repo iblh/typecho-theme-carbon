@@ -26,3 +26,7 @@
   })(jQuery);
 
 }).call(this);
+
+$("#url").focus(function() {
+    this.value = "http://";
+});
