@@ -3,8 +3,7 @@
 
 A minimalist typecho theme.
 
->![](https://o27z61k07.qnssl.com/imgcarbon1.png)
-
+移植自[Hexo carbon](https://github.com/icylogic/carbon)
 
 ## 简介
 - 极简主题
@@ -14,7 +13,9 @@ A minimalist typecho theme.
 ## 预览
 ![](https://lab.viosey.com/carbon/usr/themes/Carbon/screenshot.jpg)
 
+---
+
 ![](https://o27z61k07.qnssl.com/imgcarbonarticlepage.png)
 
 ## License
-Open sourced under the GPL license.
+Open sourced under the GPL v3.0 license.
