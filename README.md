@@ -7,7 +7,7 @@ A minimalist typecho theme.
 
 ## 简介
 - 极简主题
-- [Github 地址](https://github.com/viosey/Carbon)
+- [Github 地址](https://github.com/viosey/typecho-theme-carbon)
 - [Demo 演示](https://lab.viosey.com/carbon)
 
 ## 预览

@@ -18,7 +18,14 @@
     <div id="container">
     	<div id="banner">
     		<h1 id="site-title"><a href="<?php $this->options->siteUrl() ?>"><?php $this->options->title(); ?></a></h1>
-    		<p id="site-subtitle">
+    		<span id="site-subtitle">
     			<?php $this->options->slogan() ?>
-    		</p>
+    		</span>
+
+            <div id="search">
+                <form method="post" action="#" class="panel-body" id="search-form">
+    				<input type="text" name="s" id="search-input" placeholder="What're you looking for?" />
+            	</form>
+            </div>
+
     	</div>
