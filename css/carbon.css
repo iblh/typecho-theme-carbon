@@ -168,7 +168,6 @@ pre .keyword, pre .javascript .function {
     margin-right: 1.5rem;
     /*border-left thin solid dimgray*/
     font-size: small;
-    border-bottom: 1px solid #333;
     cursor: default;
 }
 #content {
@@ -368,10 +367,9 @@ textarea {
     margin-left: 1.5rem;
     margin-right: 1.5rem;
     display: inline-block;
-    border-bottom: solid 1px #D4D4D4;
 }
 #search-input{
-    width: 135px;
+    width: 150px;
     border: none;
     -webkit-box-shadow: 0 0 0 1000px #FFF inset;
 }

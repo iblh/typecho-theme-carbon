@@ -22,10 +22,11 @@
     			<?php $this->options->slogan() ?>
     		</span>
 
-            <div id="search">
+            <span id="search">
                 <form method="post" action="#" class="panel-body" id="search-form">
-    				<input type="text" name="s" id="search-input" placeholder="What're you looking for?" />
+        				<input type="text" name="s" id="search-input" placeholder="What're you looking for?" />
+                    </span>
             	</form>
-            </div>
+            </span>
 
     	</div>
