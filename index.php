@@ -2,9 +2,9 @@
 /**
  * 这是 Viosey 开发的极简Typecho主题
  *
- * @package carbon
+ * @package Theme.Carbon
  * @author viosey
- * @version 1.0.0
+ * @version 1.0.6
  * @link https://viosey.com
  */
 $this->need('header.php');?>
