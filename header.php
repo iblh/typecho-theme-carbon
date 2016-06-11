@@ -10,7 +10,7 @@
             <?php $this->archiveTitle('','',' - '); ?>
             <?php $this->options->title(); ?>
         </title>
-        <link rel="stylesheet" type="text/css" href="<?php $this->options->themeUrl('css/normalize.min.css') ?> ">
+        <link rel="stylesheet" type="text/css" href="<?php $this->options->themeUrl('css/normalize.min.css') ?>">
         <link rel="stylesheet" type="text/css" href="<?php $this->options->themeUrl('css/carbon.css') ?>">
         <?php $this->header(); ?>
     </head>
