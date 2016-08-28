@@ -8,14 +8,14 @@ A minimalist typecho theme.
 ## 简介
 - 极简主题
 - [Github 地址](https://github.com/viosey/typecho-theme-carbon)
-- [Demo 演示](https://lab.viosey.com/carbon)
+- 使用 pjax, 极速浏览
 
 ## 预览
-![](https://lab.viosey.com/carbon/usr/themes/Carbon/screenshot.jpg)
+![carbon-preview-1](https://qiniu.viosey.com/2016-08-29_1.png)
 
 ---
 
-![](https://o27z61k07.qnssl.com/imgcarbonarticlepage.png)
+![carbon-preview-2](https://qiniu.viosey.com/2016-08-29_2.jpg)
 
 ## License
 Open sourced under the GPL v3.0 license.
